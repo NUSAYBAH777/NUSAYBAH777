@@ -20,3 +20,20 @@ Applied Machine Learning, data preprocessing, model evaluation, and explainable 
 </table>
 
 ---
+
+## Core Skills (From Practice)
+
+- Machine Learning fundamentals (classification, evaluation, metrics)
+- Data analysis & preprocessing (NumPy, Pandas)
+- Model training & experimentation (Scikit-learn, PyTorch, TensorFlow)
+- Version control & collaboration with Git/GitHub
+
+<table width="100%">
+<tr>
+<td bgcolor="#e8f1ff" style="padding:12px;">
+<b>Working Style</b><br>
+I prioritize clarity, reproducibility, and readable code over complexity.
+</td>
+</tr>
+</table>
+
