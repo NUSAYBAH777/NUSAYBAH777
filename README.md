@@ -78,5 +78,13 @@ clean data pipelines, and explainable model behavior.
 </table>
 
 ---
+<!-- TOOLS -->
+## Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,git,mysql,pandas,sklearn,pytorch,tensorflow,opencv,matlab,arduino,figma" />
+</p>
+
+---
 
 
