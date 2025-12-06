@@ -85,6 +85,40 @@ clean data pipelines, and explainable model behavior.
   <img src="https://skillicons.dev/icons?i=python,c,java,git,mysql,pandas,sklearn,pytorch,tensorflow,opencv,matlab,arduino,figma" />
 </p>
 
+## Contact
+
+<p align="center">
+  <a href="mailto:N.altrabolsi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-N.altrabolsi%40gmail.com-4E7AF7?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1Wyzs4N7FEu2oxUFiYxtzJ8NnbHmNmkPd/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Resume-View-4E7AF7?style=for-the-badge&logo=googledrive&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/nusaybah-altrabolsi">
+    <img src="https://img.shields.io/badge/LinkedIn-Nusaybah%20Altrabolsi-4E7AF7?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NUSAYBAH777&label=Profile%20Views&color=4E7AF7&style=for-the-badge" />
+</p>
+
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=4E7AF7&center=true&vCenter=true&width=500&lines=Learning+by+building.;Applied+AI+with+clarity.;Growing+one+project+at+a+time." />
+</p>
+
+<p align="center">
+  <sub>This profile reflects continuous learning, experimentation, and growth in AI.</sub>
+</p>
+
+
 
 
