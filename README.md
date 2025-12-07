@@ -54,16 +54,6 @@ I prioritize clarity, reproducibility, and readable code over complexity.
 
 ---
 
-**Employee Future Prediction (HR Analytics)**  
-- Developed an ML pipeline to predict **employee attrition**  
-- Focused on **data cleaning, feature engineering, and model comparison**  
-- Evaluated models using performance metrics for explainability
-
----
-
-**Movie Theater Database System**  
-- Designed a normalized relational database using **ER diagrams and SQL**  
-- Optimized queries to ensure **data integrity and performance**
 
 <table width="100%">
 <tr>
