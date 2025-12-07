@@ -38,22 +38,6 @@ I prioritize clarity, reproducibility, and readable code over complexity.
 </table>
 
 ---
-## Highlighted Experience & Projects
-
-**AI Intern — Ministry of Media, Saudi Arabia (2024)**  
-- Designed and documented AI-powered solutions such as **TaskAlert** (task management system)  
-- Proposed intelligent tools including **chatbots** and **automated content generation**  
-- Collaborated with **Digital Transformation** and **Cybersecurity** teams (AI governance, SOC exposure)
-
----
-
-**Predictive Maintenance for Railway Engines (Rased)**  
-- Built a multi-stage ML framework using **real sensor time-series data**  
-- Applied **Random Forest, XGBoost, LSTM, and GRU** for failure detection  
-- Implemented sliding windows, filtering, and oversampling for robust predictions
-
----
-
 
 <table width="100%">
 <tr>
